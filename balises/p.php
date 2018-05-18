@@ -33,7 +33,7 @@
             <div class="col-12">
                 <img src="../images/balisep.png" alt="Exemple balise p">
             </div>
-            <aside class="col-12 fs-20 mt-20">
+            <aside class="col-12 fs-20 mt-20 nopadding">
             <i>Sources : </i><a href="https://www.w3schools.com/html/html_paragraphs.asp">W3C</a>
             </aside>
         </div>
