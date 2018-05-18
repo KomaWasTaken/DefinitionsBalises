@@ -16,21 +16,21 @@
     <section>
             <h2>La balise &lt;link&gt;</h2>
 
-            <p> L'élément HTML <strong>&lt;link&gt;</strong> définit la relation entre le document courant et une ressource externe.<br/>
+            <p> L'élément HTML <strong>&lt;link&gt;</strong> définit la relation entre le document courant et une ressource externe.
                 Cet élément peut être utilisé pour <strong>définir un lien</strong> vers une feuille de style ou un cadre de navigation (accéder à la même page dans une langue différente par exemple). <!--Description de la balise + ajout d'un exemple et image si possible-->
                 Il ne peut être inséré que dans &lt;head&gt;.
             </p>
 
             <p>
-                <u>Exemples :</u><br/><br/>
-                Pour associer une feuille de style à la page courante, on utilisera la syntaxe suivante :<br/>
-                    <img src="images/exemple_link.png" alt="Exemple de balise &lt;link&gt;"/><br/><br/>
+                <u>Exemples :</u>
+                Pour associer une feuille de style à la page courante, on utilisera la syntaxe suivante :
+                    <img src="images/exemple_link.png" alt="Exemple de balise &lt;link&gt;"/>
 
-                Pour un document, on peut indiquer plusieurs feuilles de style alternatives.<br/>
+                Pour un document, on peut indiquer plusieurs feuilles de style alternatives.
 
-                L'utilisateur pourra choisir parmi ces feuilles de style via le menu « Affichage > Style de la page ».<br/>
-                Ainsi, un utilisateur pourra voir différentes versions d'une même page.<br/>
-                    <img src="images/exemple_link2.png" alt="Exemple de balise &lt;link&gt;"/><br/>
+                L'utilisateur pourra choisir parmi ces feuilles de style via le menu « Affichage > Style de la page ».
+                Ainsi, un utilisateur pourra voir différentes versions d'une même page.
+                    <img src="images/exemple_link2.png" alt="Exemple de balise &lt;link&gt;"/>
             </p>
         
         <aside>

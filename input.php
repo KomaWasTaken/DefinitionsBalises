@@ -16,27 +16,27 @@
     <section>
             <h2>La balise &lt;input&gt;</h2>
 
-            <p>La balise <strong>&lt;input&gt;</strong> fait partie des éléments composant un <a href="form.html">formulaire</a> et permet à un utilisateur d'effectuer des <strong>saisies de données</strong> pouvant être échangées avec le serveur. <br>
-                Il propose un nombre importants de types différents, allant de la saisie de texte à la validation ou au reset de formulaire en passant par l'affichage de cases à cocher ou de boutons radio. <br>
+            <p>La balise <strong>&lt;input&gt;</strong> fait partie des éléments composant un <a href="form.html">formulaire</a> et permet à un utilisateur d'effectuer des <strong>saisies de données</strong> pouvant être échangées avec le serveur.
+                Il propose un nombre importants de types différents, allant de la saisie de texte à la validation ou au reset de formulaire en passant par l'affichage de cases à cocher ou de boutons radio.
                 Pour insérer cette zone de texte, il faut utiliser la balise &lt;input /&gt; et donner un nom à la zone de texte, qui servira au PHP de reconnaître d'où viennent les informations.
-                <br>
+            
                 <u>Exemple :</u>
             </p>
             <img src="images/input1.png" alt="Formulaire avec une zone de texte">
             <p>
-                Afin de savoir ce que le visiteur doit écrire dans le champ créé, il faut utiliser la balise <strong>&lt;label&gt; &lt;/label&gt;</strong> et le lier à la zone de texte. <br>
-                Pour cela, il faut lui donner un attribut for qui a la même valeur que l'id du champ. <br>
+                Afin de savoir ce que le visiteur doit écrire dans le champ créé, il faut utiliser la balise <strong>&lt;label&gt; &lt;/label&gt;</strong> et le lier à la zone de texte.
+                Pour cela, il faut lui donner un attribut for qui a la même valeur que l'id du champ.
                 <u>Exemple :</u>
             </p>
             <img src="images/input2.png" alt="Exemple avec label">
             <p>
-                Elle peut prendre la valeur d'une zone de mot de passe où on ne voit pas les caractères saisies à l'écran. Pour l'utiliser, il faut utiliser l'attribut type="password". <br>
+                Elle peut prendre la valeur d'une zone de mot de passe où on ne voit pas les caractères saisies à l'écran. Pour l'utiliser, il faut utiliser l'attribut type="password".
                 <u>Exemple :</u>
             </p>
             <img src="images/input3.png" alt="Exemple pour mot de passe">
             <img src="images/input4.png" alt="Rendu visuel zone mot de passe">
             <p>
-                Pour demander de saisir un e-mail, il suffit simplement de mettre la valeur email à type.<br>
+                Pour demander de saisir un e-mail, il suffit simplement de mettre la valeur email à type
                 <u>Exemple :</u>
             </p>
             <img src="images/input5.png" alt="Exemple pour e-mail">

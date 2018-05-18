@@ -15,21 +15,21 @@
             <h2>La balise &lt;table&gt;</h2>
 
             <p> 
-                La balise <strong>&lt;table&gt;</strong> est de type bloc et permet d'<strong>indiquer le début et la fin d'une table.</strong><br>
-                Deux balises sont importantes à retenir :<br>
+                La balise <strong>&lt;table&gt;</strong> est de type bloc et permet d'<strong>indiquer le début et la fin d'une table.</strong>
+                Deux balises sont importantes à retenir :
             </p>
                 <ul>
                     <li>&lt;tr&gt; &lt;/tr&gt; : Indique la début et la fin d'une ligne.</li>
                     <li>&lt;td&gt; &lt;/td&gt; : Indique la début et la fin du contenu d'une cellule.</li>
                 </ul>
             <p>
-                Un tableau se construit ligne par ligne. Dans chacune des lignes &lt;tr&gt;, on indique le contenu des cellules &lt;td&gt;.<br>
-                <u>Exemple :</u><br>
+                Un tableau se construit ligne par ligne. Dans chacune des lignes &lt;tr&gt;, on indique le contenu des cellules &lt;td&gt;.
+                <u>Exemple :</u>
             </p>        
             <img src="images/tab1.png" alt="exemple de balise du tableau">
             <img src="images/tab2.png" alt="Résultat visuel du tableau">
             <p>
-                Il est évidemment possible et conseillé d'arranger le visuel grâce aux borders avec CSS.<br>
+                Il est évidemment possible et conseillé d'arranger le visuel grâce aux borders avec CSS.
                 Une ligne d'en-tête peut être créée en remplaçant la balise &lt;td&gt; par la balise &lt;th&gt; .
             </p>
             <img src="images/tab3.png" alt="Exemple de balise th">

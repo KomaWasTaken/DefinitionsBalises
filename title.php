@@ -16,13 +16,13 @@
     <section>
             <h2>La balise &lt;title&gt;</h2>
 
-            <p>L'élément <strong>&lt;title&gt;</strong> définit le <strong>titre du document</strong> (qui est affiché dans la barre de titre du navigateur ou dans l'onglet de la page).<br/>
-            Cet élément ne peut contenir que du texte, les balises qu'il contiendrait seraient ignorées.<br/></p>
+            <p>L'élément <strong>&lt;title&gt;</strong> définit le <strong>titre du document</strong> (qui est affiché dans la barre de titre du navigateur ou dans l'onglet de la page).
+            Cet élément ne peut contenir que du texte, les balises qu'il contiendrait seraient ignorées.</p>
             <p><b>Exemple :</b>
             <cite><strong>&lt;title&gt;</strong>Et voici le titre de ma page !<strong>&lt;/title&gt;</strong></cite>
                 
-            <p>Le fait de renseigner et d’optimiser la balise title est indispensable car cela joue un grand rôle dans le domaine du référencement naturel.<br/>
-            Etant unique, la balise title est considérée logiquement par Google et par les autres moteur comme un élément pertinent et significatif pour déterminer la thématique principale d’une page. <br/>
+            <p>Le fait de renseigner et d’optimiser la balise title est indispensable car cela joue un grand rôle dans le domaine du référencement naturel.
+            Etant unique, la balise title est considérée logiquement par Google et par les autres moteur comme un élément pertinent et significatif pour déterminer la thématique principale d’une page. 
             La balise title est probablement un des critères de référencement on-page ayant le plus de poids.
             Un mot clé a d’autant plus de poids comme balise titre lorsqu’il figure seul ou en début de balise.
             </p>

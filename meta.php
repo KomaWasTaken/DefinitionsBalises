@@ -15,8 +15,8 @@
     <section>
             <h2>La balise &lt;meta&gt;</h2>
 
-            <p>Les balises <strong>&lt;meta&gt;</strong> (aussi appelées meta-tags) sont des informations incluses à l'intérieur des pages web.<br/>
-            Ces informations sont placées dans l'en-tête d'une page web à l'intérieur de la balise head. Les balises meta sont relatives à la page et donnent des informations plus généralement aux moteurs de recherche (bien que d'autres applications sont possibles).<br/>
+            <p>Les balises <strong>&lt;meta&gt;</strong> (aussi appelées meta-tags) sont des informations incluses à l'intérieur des pages web.
+            Ces informations sont placées dans l'en-tête d'une page web à l'intérieur de la balise head. Les balises meta sont relatives à la page et donnent des informations plus généralement aux moteurs de recherche (bien que d'autres applications sont possibles).
             </p>
 
             <p>Les informations sont très vastes, il peut s'agir du langage de la page, de l'auteur du document, d'une description de la page et de bien d'autres choses encore.

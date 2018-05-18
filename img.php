@@ -15,20 +15,20 @@
 
     <section>
             <h2>La balise &lt;img&gt;</h2>
-            <p>La balise <strong>&lt;img&gt;</strong> est une <strong>balise orphelines</strong> utilisée pour insérer une image.<br>
+            <p>La balise <strong>&lt;img&gt;</strong> est une <strong>balise orphelines</strong> utilisée pour insérer une image.
             Elle doit comporter deux attributs qui sont :</p>
             <ol>
                 <li>src : L'emplacement de l'image par rapport à la page HTML.</li>
                 <li>alt : Une description écrite de l'image si celle-ci ne se charge pas.</li>
             </ol>
                 
-            <p><u>Exemple :</u><br>
+            <p><u>Exemple :</u>
                 &lt;img src="avatar.jpg" alt="Avatar blond avec des lunettes"&gt;
             </p>
                         
-            <img src="images/avatar.jpg" alt="Avatar blond avec des lunettes"><br> 
+            <img src="images/avatar.jpg" alt="Avatar blond avec des lunettes">
             <p>
-                Attention : <br>Si l'image se trouve dans un dossier enfant il faut écrire le chemin : dossier/image.jpg.<br>
+                Attention : Si l'image se trouve dans un dossier enfant il faut écrire le chemin : dossier/image.jpg.
                 Si l'image se trouve dans un dossier parent il faut écrire : ../image.jpg.
             </p>
         

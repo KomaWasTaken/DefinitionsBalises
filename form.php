@@ -15,9 +15,9 @@
 
     <section>
             <h2>La balise &lt;form&gt;</h2>
-            <p>La balise <strong>&lt;form&gt;</strong> est utilisée pour créer un formulaire HTML5.<br>
+            <p>La balise <strong>&lt;form&gt;</strong> est utilisée pour créer un formulaire HTML5.
             Elle peut afficher des éléments sous la forme d'un <a href="http://41mag.fr/liste-des-balises-html5/balise-button-html5" target="_blank">bouton</a>, d'une <a href="http://41mag.fr/liste-des-balises-html5/balise-datalist-html5" target="_blank">liste</a>, d'une <a href="http://www.startyourdev.com/html/tag-html-balise-textarea" target="_blank">zone de texte</a> etc.. selon les éléments qu'elle contient.<br></p>
-            <p>Voici les attributs que peut prendre la balise :<br> <br>
+            <p>Voici les attributs que peut prendre la balise :
             <img src="images/form_balise.PNG" alt="attributs et valeurs possibles de form"></p>
         
         <aside>
