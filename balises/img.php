@@ -13,28 +13,30 @@
 <body>
     <?php include '../include/header.php' ?>
 
-    <section>
-        <h2>La balise &lt;img&gt;</h2>
-        <p>La balise <strong>&lt;img&gt;</strong> est une <strong>balise orphelines</strong> utilisée pour insérer une image.
-        Elle doit comporter deux attributs qui sont :</p>
-        <ol>
-            <li>src : L'emplacement de l'image par rapport à la page HTML.</li>
-            <li>alt : Une description écrite de l'image si celle-ci ne se charge pas.</li>
-        </ol>
-        <h5>Exemple :</h5>   
-        <p>
-            &lt;img src="avatar.jpg" alt="Avatar blond avec des lunettes"&gt;
-        </p>
-                    
-        <img src="images/avatar.jpg" alt="Avatar blond avec des lunettes">
-        <p>
-            Attention : Si l'image se trouve dans un dossier enfant il faut écrire le chemin : dossier/image.jpg.
-            Si l'image se trouve dans un dossier parent il faut écrire : ../image.jpg.
-        </p>
-        
-        <aside>
-            <i>Sources : </i> <a href="https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/les-images-18" target="_blank">OpenClassRoom</a>
-        </aside>
+    <section class="container ptb-50">
+        <div class="row flex-column">
+            <h2 class="fs-30">La balise &lt;img&gt;</h2>
+            <p class="fs-15">La balise <strong>&lt;img&gt;</strong> est une <strong>balise orphelines</strong> utilisée pour insérer une image.
+            Elle doit comporter deux attributs qui sont :</p>
+            <ol class="fs-15">
+                <li>src : L'emplacement de l'image par rapport à la page HTML.</li>
+                <li>alt : Une description écrite de l'image si celle-ci ne se charge pas.</li>
+            </ol>
+            <h5 class="fs-20">Exemple :</h5>   
+            <p class="fs-15">
+                &lt;img src="avatar.jpg" alt="Avatar blond avec des lunettes"&gt;
+            </p>
+                        
+            <img src="../images/avatar.jpg" alt="Avatar blond avec des lunettes">
+            <p class="fs-15">
+                Attention : Si l'image se trouve dans un dossier enfant il faut écrire le chemin : dossier/image.jpg.
+                Si l'image se trouve dans un dossier parent il faut écrire : ../image.jpg.
+            </p>
+            
+            <aside>
+                <i>Sources : </i> <a href="https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/les-images-18" target="_blank">OpenClassRoom</a>
+            </aside>
+        </div>
     </section>
 
     <?php include '../include/footer.php' ?>

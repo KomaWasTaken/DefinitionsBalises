@@ -13,20 +13,21 @@
 <body>
     <?php include "../include/header.php" ?>
 
-    <section>
-            <h2>La balise &lt;div&gt;</h2>
-            <p> 
-            La balise <strong>&lt;div&gt;</strong> définit une <strong>division ou section</strong>, appelée également calque, dans un document HTML.
-            Elle est utilisée pour regrouper des éléments dans un bloc pour pouvoir les formater en CSS.
-            Note : les navigateurs placent toujours un saut de ligne avant et après un élément &lt;div&gt;
-            La balise &lt;div&gt; prend en charge tous les attributs d'événement HTML5.</p>
-            <h5>Exemple :</h5>
-            <img src="images/div.jpg" alt="Exemple d'utilisation de balise div" />         
+    <section class="container ptb-50">
+    <div class="row flex-column">
+        <h2 class="fs-30">La balise &lt;div&gt;</h2>
+        <p class="fs-15"> 
+        La balise <strong>&lt;div&gt;</strong> définit une <strong>division ou section</strong>, appelée également calque, dans un document HTML.
+        Elle est utilisée pour regrouper des éléments dans un bloc pour pouvoir les formater en CSS.
+        Note : les navigateurs placent toujours un saut de ligne avant et après un élément &lt;div&gt;
+        La balise &lt;div&gt; prend en charge tous les attributs d'événement HTML5.</p>
+        <h5 class="fs-20">Exemple :</h5>
+        <img src="../images/div.jpg" alt="Exemple d'utilisation de balise div" />         
 
-
-        <aside>
+        <aside class="fs-15">
             <i>Source : </i> <a href="http://41mag.fr/liste-des-balises-html5/balise-div-html5" target="_blank">41mag</a>
         </aside>
+    </div>
     </section>
     
     <?php include "../include/footer.php" ?>
