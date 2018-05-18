@@ -10,10 +10,10 @@
     <title>Balise &lt;a&gt;</title>
 </head>
 <body>
-    <?php include "../include/nav.php" ?>
+    <?php include "../include/header.php" ?>
 
-<section>
-    <h2>La balise &lt;a&gt;</h2>
+<section class="container ubuntu ptb-50">
+    <h2 class="fs-40">La balise &lt;a&gt;</h2>
     <p>
         Les liens HTML sont définit par l'ajout d'une balise &lt;a&gt;.
         Il est suivit de l'attribut href : il définit le lien où l'on souhaite emmener l'utilisateur, sa destination.

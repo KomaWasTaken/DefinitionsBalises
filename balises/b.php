@@ -10,7 +10,7 @@
     <title>Balise &lt;b&gt;</title>
 </head>
 <body>
-    <?php include "../include/nav.php" ?>
+    <?php include "../include/header.php" ?>
 
 <section>
     <h2>La balise &lt;b&gt;</h2>

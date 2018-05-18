@@ -11,10 +11,10 @@
 </head>
 
 <body>
-    <?php include 'nav.php'; ?>
+    <?php include '../include/header.php'; ?>
 
     <section>
-        <h5>La balise &lt;head&gt;</h5>
+        <h2>La balise &lt;head&gt;</h2>
         <p>
             La balise &lt;head&gt; contient tous les éléments de l'en-tête de votre document.
             L'en-tête du document doit contenir un titre, peut contenir des scripts, balises meta, styles etc ...
@@ -31,7 +31,7 @@
         </ul>
         
         <h5>Exemple :</h5>
-        <img src="images/head.jpg" alt="Exemple d'utilisation d'une balise head"/>
+        <img src="../images/head.jpg" alt="Exemple d'utilisation d'une balise head"/>
         <a href="http://41mag.fr/liste-des-balises-html5/balise-head-html5" target="_blank">Source obtenue par 41mag</a>
     </section>
 

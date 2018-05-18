@@ -6,12 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css"/>
-    <title>Définition de la balise &lt;body&gt;</title> <!--Ne pas toucher-->
+    <link rel="stylesheet" href="../css/style.css"/>
+    <title>Balise &lt;body&gt;</title>
 </head>
 
 <body>
-    <?php include 'nav.php'; ?>
+    <?php include '../include/header.php'; ?>
 
     <section>
         <h5>La balise &lt;body&gt;</h5>
@@ -34,7 +34,7 @@
 
     </section>
 
-    <?php include 'footer.php'; ?>
+    <?php include '../include/footer.php'; ?>
 
 </body>
 </html>
