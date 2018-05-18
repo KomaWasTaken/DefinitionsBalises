@@ -1,4 +1,4 @@
-<footer class="d-flex justify-content-center bgcolor3 ptb-80 align-self-end w-100 ">
+<footer class="d-flex justify-content-center bgcolor3 ptb-80 w-100 ">
     <section class="d-flex flex-column align-items-center">
         <div class="d-flex justify-content-around w-50">
                 <a class="decorationnone" href="https://www.facebook.com/" target="_blank"><i class="fab fs-50 fa-facebook color4"></i></a>
