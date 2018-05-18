@@ -13,16 +13,22 @@
 <body>
     <?php include '../include/header.php' ?>
 
-    <section>
-            <h2>La balise &lt;form&gt;</h2>
-            <p>La balise <strong>&lt;form&gt;</strong> est utilisée pour créer un formulaire HTML5.
-            Elle peut afficher des éléments sous la forme d'un <a href="http://41mag.fr/liste-des-balises-html5/balise-button-html5" target="_blank">bouton</a>, d'une <a href="http://41mag.fr/liste-des-balises-html5/balise-datalist-html5" target="_blank">liste</a>, d'une <a href="http://www.startyourdev.com/html/tag-html-balise-textarea" target="_blank">zone de texte</a> etc.. selon les éléments qu'elle contient.</p>
-            <p>Voici les attributs que peut prendre la balise :</p>
-            <img src="images/form_balise.PNG" alt="attributs et valeurs possibles de form">
-        
-        <aside>
-            <i>Source : </i> <a href="http://41mag.fr/liste-des-balises-html5/balise-form-html5" target="_blank">41mag</a>
-        </aside>
+    <section class="container-fluid ptb-50">
+        <div class="container">
+            <div class="row flex-column">
+                <h2 class="fs-30">La balise &lt;form&gt;</h2>
+                <p class="fs-15">La balise <strong>&lt;form&gt;</strong> est utilisée pour créer un formulaire HTML5.
+                Elle peut afficher des éléments sous la forme d'un <a href="http://41mag.fr/liste-des-balises-html5/balise-button-html5" target="_blank">bouton</a>, d'une <a href="http://41mag.fr/liste-des-balises-html5/balise-datalist-html5" target="_blank">liste</a>, d'une <a href="http://www.startyourdev.com/html/tag-html-balise-textarea" target="_blank">zone de texte</a> etc.. selon les éléments qu'elle contient.</p>
+                <p class="fs-15">Voici les attributs que peut prendre la balise :</p>
+                <div class="col-12">
+                    <img class="img-fluid" src="../images/form_balise.PNG" alt="attributs et valeurs possibles de form">
+                </div>
+            
+                <aside class="fs-20 mt-20">
+                    <i>Source : </i> <a href="http://41mag.fr/liste-des-balises-html5/balise-form-html5" target="_blank">41mag</a>
+                </aside>
+            </div>
+        </div>
     </section>
 
     <?php include '../include/footer.php' ?>
