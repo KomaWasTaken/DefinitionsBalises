@@ -13,15 +13,19 @@
 <body>
     <?php include '../include/header.php'; ?>
 
-    <section class="container color2 bgcolor4">
-        <h2>La balise &lt;head&gt;</h2>
-        <p>
+    <section class="container-fluid color2 bgcolor4 ptb-50">
+    <div class="container">
+    <div class="row">            
+
+        <h2 class="fs-30">La balise &lt;head&gt;</h2>
+        <p class="fs-15 col-12"> 
+
             La balise &lt;head&gt; contient tous les éléments de l'en-tête de votre document.
             L'en-tête du document doit contenir un titre, peut contenir des scripts, balises meta, styles etc ...
         </p> 
-        <h5>On peut trouver dans une balise &lt;head&gt; :</h5>
-        <ul>
-            La balise &lt;head&gt; prend en charge tous les attributs standards en HTML5
+        <h5 class="fs-20">On peut trouver dans une balise &lt;head&gt; :</h5>
+        <ul class="fs-15 col-12">
+            La balise &lt;head&gt; prend en charge tous les attributs standards en HTML5 :
             <li>&lt;title&gt;</li>
             <li>&lt;style&gt;</li>
             <li>&lt;base&gt;</li>
@@ -30,9 +34,14 @@
             <li>&lt;script&gt;</li>       
         </ul>
         
-        <h5>Exemple :</h5>
-        <img src="images/head.jpg" alt="Exemple d'utilisation d'une balise head"/>
-        <i>Sources : </i><a href="http://41mag.fr/liste-des-balises-html5/balise-head-html5" target="_blank">41mag</a>
+        <h5 class="fs-20">Exemple :</h5>
+        <div class="col-12">
+            <img class="img-fluid" src="../images/head.jpg" alt="Exemple d'utilisation d'une balise head"/>
+        </div>
+        <aside class="fs-20 mt-20">
+            <i>Sources : </i><a href="http://41mag.fr/liste-des-balises-html5/balise-head-html5" target="_blank">41mag</a>
+        </aside>
+
     </section>
 
     <?php include '../include/footer.php'; ?>

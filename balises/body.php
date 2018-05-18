@@ -13,10 +13,13 @@
 <body>
     <?php include '../include/header.php'; ?>
 
-    <section class="container color2 bgcolor4">
-        <h2>La balise &lt;body&gt;</h2>
+    <section class="container-fluid color2 bgcolor4 ptb-50">
+    <div class="container">
+    <div class="row">            
+
+        <h2 class="fs-30">La balise &lt;body&gt;</h2>
     
-    <p class="fs-15">
+        <p class="fs-15 col-12"> 
         La balise &lt;body&gt; est ce qui définit le corps d'un document,
         ce qui contient l'information destinée à être affichée.
     </p>
@@ -27,8 +30,10 @@
     
     
     <h5 class="fs-20">Exemple :</h5>
-        <img src="../images/body.jpg" alt="Exemple d'utilisation de balise body"/>
-    <aside  class="fs-15">
+    <div class="col-12">
+        <img class="img-fluid" src="../images/body.jpg" alt="Exemple d'utilisation de balise body"/>
+    </div>
+        <aside class="fs-20 mt-20">
         <i>Sources : </i><a href="http://41mag.fr/liste-des-balises-html5/balise-body-html5" target="_blank">41mag</a>
     </aside> 
 
