@@ -13,7 +13,7 @@
 <body>
     <?php include '../include/header.php'; ?>
 
-    <section>
+    <section class="container color2 bgcolor4">
         <h2>La balise &lt;head&gt;</h2>
         <p>
             La balise &lt;head&gt; contient tous les éléments de l'en-tête de votre document.
