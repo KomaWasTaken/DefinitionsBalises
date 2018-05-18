@@ -12,9 +12,10 @@
 <body>
     <?php include "../include/header.php" ?>
 
-<section class="container ptb-50">
-    <div class="row flex-column">
-        <h2 class="fs-30 col-12">La balise &lt;a&gt;</h2>
+<section class="container-fluid ptb-50 bgcolor4">
+    <div class="container">
+        <div class="row flex-column">
+            <h2 class="fs-30 col-12">La balise &lt;a&gt;</h2>
             <p class="fs-15 col-12">
                 Les liens HTML sont définit par l'ajout d'une balise &lt;a&gt;.
             </p>   
@@ -23,13 +24,14 @@
                 sa destination.
             </p>
 
-        <h5 class="fs-20 col-12">Voici un exemple d'utilisation de la balise &lt;a&gt; :</h5>
-        <div class="col-12">
-            <img class="img-fluid" src="../images/balisea.png" alt="Exemple image">
+            <h5 class="fs-20 col-12">Voici un exemple d'utilisation de la balise &lt;a&gt; :</h5>
+            <div class="col-12">
+                <img class="img-fluid" src="../images/balisea.png" alt="Exemple image">
+            </div>
+            <aside class="fs-20 mt-20 col-12">
+                <i>Sources : </i><a href="https://www.w3schools.com/tags/tag_a.asp">W3C</a>
+            </aside>
         </div>
-        <aside class="fs-20 mt-20 col-12">
-            <i>Sources : </i><a href="https://www.w3schools.com/tags/tag_a.asp">W3C</a>
-        </aside>
     </div>
 </section>
 
