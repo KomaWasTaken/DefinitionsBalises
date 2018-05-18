@@ -31,6 +31,15 @@ html{font-size: 62.5%;}
                                 Color & Background/filtre & border
     ========================================================================= */
 
+    .color1{color:#F6490D;}
+    .color2{color:#000249;}
+    .color3{color:#1DCED8;}
+    .color4{color:#FAF9F0;}
+    .bgcolor1{background-color:#F6490D;}
+    .bgcolor2{background-color:#000249;}
+    .bgcolor3{background-color:#1DCED8;}
+    .bgcolor4{background-color:#FAF9F0;}    
+
     /* =========================================================================
                                     Géneral Générique
     ========================================================================= */
