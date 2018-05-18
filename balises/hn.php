@@ -10,7 +10,7 @@
     <title>Balise &lt;hn&gt;</title>
 </head>
 <body>
-    <?php include "../nav.php" ?>
+    <?php include "../include/nav.php" ?>
 
 <section>
     <h2>La balise &lt;hn&gt;</h2>
@@ -37,6 +37,6 @@
     </aside>
 </section>
 
-    <?php include "../footer.php" ?>
+    <?php include "../include/footer.php" ?>
 </body>
 </html>
