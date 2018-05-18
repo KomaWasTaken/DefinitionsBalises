@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <title>Balise &lt;select&gt;</title>
 </head>
 <body>
-    <?php include "../include/nav.php" ?>
+    <?php include "../include/header.php" ?>
 
 <section>
     <h2>La balise &lt;select&gt;</h2>
@@ -43,9 +43,11 @@
 
     <h5>Correspondant au code suivant :</h5>
     <img src="../images/select3.jpg" alt="Exemple 3 - balise select">
+
     <aside>
-        <a href="https://www.xul.fr/html5/select.php">Source obtenue sur W3C.</a>
+        <i>Sources : </i><a href="https://www.xul.fr/html5/select.php">W3C</a>
     </aside>
+
 </section>
 
     <?php include "../include/footer.php" ?>

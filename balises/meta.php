@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Meta</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Balise &lt;meta&gt;</title>
 </head>
 <body>
-    <?php include 'nav.php' ?>
+    <?php include '../include/header.php' ?>
     
     <section>
             <h2>La balise &lt;meta&gt;</h2>
@@ -30,11 +30,11 @@
             </ul>
 
         <aside>
-            <i>Source du texte:  </i><a href="http://glossaire.infowebmaster.fr/balises-meta/" target="_blank">Infowebmaster.fr</a> 
-            <a href="http://www.codeshttp.com/balisem.htm" target="_blank">codeshttp.com</a>
+            <i>Source du texte : </i><a href="http://glossaire.infowebmaster.fr/balises-meta/" target="_blank">Infowebmaster</a> 
+            <a href="http://www.codeshttp.com/balisem.htm" target="_blank">codeshttp</a>
         </aside>  
     </section>
 
-    <?php include 'footer.php' ?>
+    <?php include '../include/footer.php' ?>
 </body>
 </html>

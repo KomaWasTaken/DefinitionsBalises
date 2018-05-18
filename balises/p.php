@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <title>Balise &lt;p&gt;</title>
 </head>
 <body>
-    <?php include "../include/nav.php" ?>
+    <?php include "../include/header.php" ?>
 
 <section>
     <h2>La balise Balise &lt;p&gt;</h2>
@@ -29,8 +29,9 @@
     </p>
     <h5>Voici un exemple d'utilisation de la balise &lt;p&gt;</h5>
     <img src="../images/balisep.png" alt="Exemple balise p">
+
     <aside>
-        <a href="https://www.w3schools.com/html/html_paragraphs.asp">Source obtenue sur W3C</a>
+    <i>Sources : </i><a href="https://www.w3schools.com/html/html_paragraphs.asp">W3C</a>
     </aside>
 
 </section>

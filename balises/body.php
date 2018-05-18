@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +14,7 @@
     <?php include '../include/header.php'; ?>
 
     <section>
-        <h5>La balise &lt;body&gt;</h5>
+        <h2>La balise &lt;body&gt;</h2>
     
     <p>
         La balise &lt;body&gt; est ce qui définit le corps d'un document,
@@ -29,7 +29,7 @@
     <h5>Exemple :</h5>
     <img src="images/body.jpg" alt="Exemple d'utilisation de balise body"/>
     <aside>
-         <a href="http://41mag.fr/liste-des-balises-html5/balise-body-html5" target="_blank">Source obtenue sur 41mag</a>
+        <i>Sources : </i><a href="http://41mag.fr/liste-des-balises-html5/balise-body-html5" target="_blank">41mag</a>
     </aside> 
 
     </section>
