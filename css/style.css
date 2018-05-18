@@ -7,8 +7,9 @@ body{min-height:100vh;
 display:flex;
 flex-direction:column;
 font-family: 'Ubuntu', sans-serif;}
-section{flex-grow:1;}
-
+section{flex-grow:1;
+}
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 
 /* =========================================================================
@@ -40,7 +41,6 @@ section{flex-grow:1;}
     .fs-30{font-size:3rem;}
     .fs-20{font-size:2rem;}
     .fs-15{font-size:1.5rem;}
-
 /* =========================================================================
                                 Color & Background/filtre & border
     ========================================================================= */
@@ -64,5 +64,7 @@ section{flex-grow:1;}
                                 Classe Spécifique
 ========================================================================= */
 
-nav a {color:#fff; transition: 0.5s all ease;}
-nav a:hover {color:#1DCED8;}
+nav a {color:#fff;}
+footer a{color:#fff;}
+nav a:hover{color:#1DCED8;
+transition: 0.5s all ease;}
