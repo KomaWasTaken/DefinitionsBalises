@@ -1,4 +1,4 @@
-<footer class="d-flex justify-content-center bgcolor3 ptb-80 w-100 ">
+<footer class="d-flex justify-content-center bgcolor1 ptb-50 w-100 ">
     <section class="d-flex flex-column align-items-center">
         <div class="d-flex justify-content-around w-50">
                 <a class="decorationnone" href="https://www.facebook.com/" target="_blank"><i class="fab fs-50 fa-facebook color4"></i></a>
@@ -11,7 +11,7 @@
         </div>
         
         <div class="d-flex justify-content-center pt-30">
-            <p class="color4 biter fs-20">Copyright © 2018 Troll A+ en lan</p>
+            <p class="color3 fs-20">Copyright © 2018 - Valentin / Loan / Jim / Romain</p>
         </div>
 </section>
 </footer>

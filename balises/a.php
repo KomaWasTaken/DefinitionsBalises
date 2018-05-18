@@ -13,16 +13,19 @@
     <?php include "../include/header.php" ?>
 
 <section class="container ptb-50">
-    <div class="row ubuntu">
-        <h2 class="fs-40">La balise &lt;a&gt;</h2>
-        <p class="fs-15">
-            Les liens HTML sont définit par l'ajout d'une balise &lt;a&gt;.
-            Il est suivit de l'attribut href : il définit le lien où l'on souhaite emmener l'utilisateur, sa destination.
-        </p>
+    <div class="row flex-column">
+        <h2 class="fs-30 col-12">La balise &lt;a&gt;</h2>
+            <p class="fs-15 col-12">
+                Les liens HTML sont définit par l'ajout d'une balise &lt;a&gt;.
+            </p>   
+            <p class="fs-15 col-12">
+                Il est suivit de l'attribut href : il définit le lien où l'on souhaite emmener l'utilisateur,
+                sa destination.
+            </p>
 
-        <h5 class="fs-20">Voici un exemple d'utilisation de la balise &lt;a&gt; :</h5>
-        <img class="img-fluid" src="../images/balisea.png" alt="Exemple image">
-        <aside>
+        <h5 class="fs-20 col-12">Voici un exemple d'utilisation de la balise &lt;a&gt; :</h5>
+            <img class="img-fluid col-6" src="../images/balisea.png" alt="Exemple image">
+        <aside class="fs-15 col-12">
             <i>Sources : </i><a href="https://www.w3schools.com/tags/tag_a.asp">W3C</a>
         </aside>
     </div>
