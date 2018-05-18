@@ -14,18 +14,24 @@
     <?php include 'nav.php'; ?>
 
     <section>
-    La balise &lt;body&gt;
+        <h5>La balise &lt;body&gt;</h5>
     
-    La balise &lt;body&gt; est ce qui définit le corps d'un document,
-    ce qui contient l'information destinée à être affichée.
-    Elle contient tout le contenu d'un document HTML5, que ce soit une image, un hyperlien, un tableau etc ...
-    La balise &lt;body&gt; prend en charge tous les attributs d'événement HTML5.
+    <p>
+        La balise &lt;body&gt; est ce qui définit le corps d'un document,
+        ce qui contient l'information destinée à être affichée.
+    </p>
+    <p>
+        Elle contient tout le contenu d'un document HTML5, que ce soit une image, un hyperlien, un tableau etc ...
+        La balise &lt;body&gt; prend en charge tous les attributs d'événement HTML5.
+    </p>
     
-    Exemple :
-    <img src="images/body.jpg" alt="Exemple d'utilisation de balise body" />
+    
+    <h5>Exemple :</h5>
+    <img src="images/body.jpg" alt="Exemple d'utilisation de balise body"/>
+    <aside>
+         <a href="http://41mag.fr/liste-des-balises-html5/balise-body-html5" target="_blank">Source obtenue sur 41mag</a>
+    </aside> 
 
-    Source : <a href="http://41mag.fr/liste-des-balises-html5/balise-body-html5" target="_blank">41mag</a>
-    
     </section>
 
     <?php include 'footer.php'; ?>

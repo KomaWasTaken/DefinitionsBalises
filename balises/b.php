@@ -10,7 +10,7 @@
     <title>Balise &lt;b&gt;</title>
 </head>
 <body>
-    <?php include "../nav.php" ?>
+    <?php include "../include/nav.php" ?>
 
 <section>
     <h2>La balise &lt;b&gt;</h2>
@@ -26,6 +26,6 @@
 
 </section>
 
-    <?php include "../footer.php" ?>
+    <?php include "../include/footer.php" ?>
 </body>
 </html>

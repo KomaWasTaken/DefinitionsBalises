@@ -11,31 +11,32 @@
 </head>
 
 <body>
-    <?php include 'nav.php'; ?>
+    <?php include '../include/header.php'; ?>
         
-    <section>                    
-        La balise &lt;html&gt;
-
-        La balise &lt;html&gt; indique au navigateur que le document en question est un document HTML.
-        Elle représente également la racine d'un document en HTML.
-        &lt;html&gt; sert également de conteneur pour tout autre élément HTML, hormis &lt;!doctype&gt;.
-        HTML5 introduit la mise en cache, grâce à l'attribut manifest. Les avantages de la mise en cache sont :
-
-    
-        La disponibilité hors connexion
-        La vitesse de chargement
-        La réduction de charge serveur (la navigateur ne télécharge que les ressources mises à jour)
-    
+    <section >                    
+        <h2>La balise &lt;html&gt;</h2>
+        <p>
+            La balise &lt;html&gt; indique au navigateur que le document en question est un document HTML.
+            Elle représente également la racine d'un document en HTML.
+            &lt;html&gt; sert également de conteneur pour tout autre élément HTML, hormis &lt;!doctype&gt;.
+            HTML5 introduit la mise en cache, grâce à l'attribut manifest. Les avantages de la mise en cache sont :
+        </p>
+        <p>
+            La disponibilité hors connexion
+            La vitesse de chargement
+            La réduction de charge serveur (la navigateur ne télécharge que les ressources mises à jour)
+        </p>
+        <p>
         Il est important de noter que cette balise est prise en charge par tous les principaux navigateurs.
-                        
-        Exemple :
+        </p> 
+        <p><h5>Exemple :</h5></p>
         <img src="images/html.jpg" alt="Exemple d'utilisation de balise html" />
-    
-        Source : <a href="http://41mag.fr/liste-des-balises-html5/balise-html-html5" target="_blank"> 41mag</a>
-                                    
+        <aside>
+            Source : <a href="http://41mag.fr/liste-des-balises-html5/balise-html-html5" target="_blank"> 41mag</a>
+        </aside>
     </section>
 
-    <?php include 'footer.php'; ?>
+    <?php include '../include/footer.php'; ?>
 
     </body>
 </html>
