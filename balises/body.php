@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <?php include 'nav.php'; ?>
+    <?php include '../include/header.php'; ?>
 
     <section>
     La balise &lt;body&gt;
@@ -28,7 +28,7 @@
     
     </section>
 
-    <?php include 'footer.php'; ?>
+    <?php include '../include/footer.php'; ?>
 
 </body>
 </html>

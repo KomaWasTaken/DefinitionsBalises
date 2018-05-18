@@ -10,13 +10,13 @@
     <title>Balise &lt;b&gt;</title>
 </head>
 <body>
-    <?php include "../nav.php" ?>
+    <?php include "../include/header.php" ?>
 
 <section>
     <h2>La balise &lt;b&gt;</h2>
     <p>La balise &lt;b&gt; est une balise fermante, ce qu'elle encadre sera retranscrit en gras.</p>
     <h5>Voici un exemple d'utilisation de la balise &lt;b&gt;> :</h5>
-    <img src="../images/baliseb.png" alt="Exemple balise bold">
+    <img src="../include/include/images/baliseb.png" alt="Exemple balise bold">
     <h5>Voici un exemple de ce que l'utilisateur apercevera :</h5>
     <p>This is a normal text - <b>and this is a bold text </b>.</p>
 
@@ -26,6 +26,6 @@
 
 </section>
 
-    <?php include "../footer.php" ?>
+    <?php include "../include/footer.php" ?>
 </body>
 </html>
