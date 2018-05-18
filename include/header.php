@@ -1,14 +1,14 @@
 <header>
 <div class="bd-example">
     <nav class="navbar navbar-expand-lg row bgcolor1 w-100 no-margin">
-        <a class="navbar-brand col-3 fs-50" href="#">Balises</a>
+        <a class="navbar-brand col-3 fs-50 d-flex justify-content-center" href="#">Balises</a>
         <button class="navbar-toggler bgcolor4 custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse col-8" id="navbarNavDropdown">
             <ul class="navbar-nav">
             <a class="nav-link nav-item fs-20" href="index.php">Accueil</a>
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown ml-15">
                 <a class="nav-link dropdown-toggle fs-20" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Premier Niveau
                 </a>
@@ -18,7 +18,7 @@
                     <a class="dropdown-item fs-20" href="head.php">Head</a>
                 </div>
             </li>
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown ml-15">
                 <a class="nav-link dropdown-toggle fs-20" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Balises d'en-tête
                 </a>
@@ -28,7 +28,7 @@
                     <a class="dropdown-item fs-20" href="meta.php">Meta</a>
                 </div>
             </li>
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown ml-15">
                 <a class="nav-link dropdown-toggle fs-20" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Structuration du texte
                 </a>
@@ -40,7 +40,7 @@
                     <a class="dropdown-item fs-20" href="select.php">Select</a>   
                 </div>
             </li>
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown ml-15">
                 <a class="nav-link dropdown-toggle fs-20" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Structuration de la page
                 </a>
