@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<?php include 'nav.php' ?>
+<?php include '../include/header.php' ?>
 
     <section>
             <h2>La balise &lt;link&gt;</h2>
@@ -38,6 +38,6 @@
         </aside>
     </section>
 
-<?php include 'footer.php' ?>
+<?php include '../include/footer.php' ?>
 </body>
 </html>
