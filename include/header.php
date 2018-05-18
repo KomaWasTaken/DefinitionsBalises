@@ -1,6 +1,6 @@
 <header>
 <div class="bd-example">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light row w-100 no-margin">
+    <nav class="navbar navbar-expand-lg bgcolor1 color3 row w-100 no-margin">
         <a class="navbar-brand col-3 fs-50" href="#">Balises</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

@@ -24,8 +24,10 @@
             </p>
 
         <h5 class="fs-20 col-12">Voici un exemple d'utilisation de la balise &lt;a&gt; :</h5>
-            <img class="img-fluid col-6" src="../images/balisea.png" alt="Exemple image">
-        <aside class="fs-15 col-12">
+        <div class="col-12">
+            <img class="img-fluid" src="../images/balisea.png" alt="Exemple image">
+        </div>
+        <aside class="fs-20 mt-20 col-12">
             <i>Sources : </i><a href="https://www.w3schools.com/tags/tag_a.asp">W3C</a>
         </aside>
     </div>

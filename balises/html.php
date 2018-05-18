@@ -13,26 +13,26 @@
 <body>
     <?php include '../include/header.php'; ?>
         
-    <section >                    
+    <section class="container color2 bgcolor4">                    
         <h2>La balise &lt;html&gt;</h2>
-        <p>
+        <p class="fs-15"> 
             La balise &lt;html&gt; indique au navigateur que le document en question est un document HTML.
             Elle représente également la racine d'un document en HTML.
             &lt;html&gt; sert également de conteneur pour tout autre élément HTML, hormis &lt;!doctype&gt;.
             HTML5 introduit la mise en cache, grâce à l'attribut manifest. Les avantages de la mise en cache sont :
         </p>
-        <p>
+        <p class="fs-15">
             La disponibilité hors connexion
             La vitesse de chargement
             La réduction de charge serveur (la navigateur ne télécharge que les ressources mises à jour)
         </p>
-        <p>
+        <p class="fs-15">
         Il est important de noter que cette balise est prise en charge par tous les principaux navigateurs.
         </p> 
         <h5>Exemple :</h5>
-        <img src="images/html.jpg" alt="Exemple d'utilisation de balise html" />
+        <img src="images/html.jpg" alt="Exemple d'utilisation de balise html"/>
 
-        <aside>
+        <aside class="fs-15">
         <i>Sources : </i> <a href="http://41mag.fr/liste-des-balises-html5/balise-html-html5" target="_blank">41mag</a>
         </aside>
     </section>
