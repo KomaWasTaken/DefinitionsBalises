@@ -12,18 +12,27 @@
 <body>
     <?php include "../include/header.php" ?>
 
-<section>
-    <h2>La balise &lt;a&gt;</h2>
-    <p>
-        Les liens HTML sont définit par l'ajout d'une balise &lt;a&gt;.
-        Il est suivit de l'attribut href : il définit le lien où l'on souhaite emmener l'utilisateur, sa destination.
-    </p>
+<section class="container-fluid ptb-50 bgcolor4">
+    <div class="container">
+        <div class="row flex-column">
+            <h2 class="fs-30 col-12">La balise &lt;a&gt;</h2>
+            <p class="fs-15 col-12">
+                Les liens HTML sont définit par l'ajout d'une balise &lt;a&gt;.
+            </p>   
+            <p class="fs-15 col-12">
+                Il est suivit de l'attribut href : il définit le lien où l'on souhaite emmener l'utilisateur,
+                sa destination.
+            </p>
 
-    <h5>Voici un exemple d'utilisation de la balise &lt;a&gt; :</h5>
-    <img src="../images/balisea.png" alt="Exemple image">
-    <aside>
-        <i>Sources : </i><a href="https://www.w3schools.com/tags/tag_a.asp">W3C</a>
-    </aside>
+            <h5 class="fs-20 col-12">Voici un exemple d'utilisation de la balise &lt;a&gt; :</h5>
+            <div class="col-12">
+                <img class="img-fluid" src="../images/balisea.png" alt="Exemple image">
+            </div>
+            <aside class="fs-20 mt-20 col-12">
+                <i>Sources : </i><a href="https://www.w3schools.com/tags/tag_a.asp">W3C</a>
+            </aside>
+        </div>
+    </div>
 </section>
 
     <?php include "../include/footer.php" ?>

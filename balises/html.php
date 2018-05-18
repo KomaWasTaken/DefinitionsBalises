@@ -30,9 +30,11 @@
         Il est important de noter que cette balise est prise en charge par tous les principaux navigateurs.
         </p> 
         <h5>Exemple :</h5>
-        <img src="images/html.jpg" alt="Exemple d'utilisation de balise html"/>
+        <div class="col-12">
+            <img src="images/html.jpg" alt="Exemple d'utilisation de balise html"/>
+        </div>
 
-        <aside class="fs-15">
+        <aside class="fs-20 mt-20">
         <i>Sources : </i> <a href="http://41mag.fr/liste-des-balises-html5/balise-html-html5" target="_blank">41mag</a>
         </aside>
     </section>

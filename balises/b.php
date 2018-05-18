@@ -12,18 +12,23 @@
 <body>
     <?php include "../include/header.php" ?>
 
-<section>
-    <h2>La balise &lt;b&gt;</h2>
-    <p>La balise &lt;b&gt; est une balise fermante, ce qu'elle encadre sera retranscrit en gras.</p>
-    <h5>Voici un exemple d'utilisation de la balise &lt;b&gt;> :</h5>
-    <img src="../include/include/images/baliseb.png" alt="Exemple balise bold">
-    <h5>Voici un exemple de ce que l'utilisateur apercevera :</h5>
-    <p>This is a normal text - <b>and this is a bold text </b>.</p>
+<section class="container-fluid ptb-50 bgcolor4">
+    <div class="container">
+        <div class="row flex-column">
+            <h2 class="fs-30 col-12">La balise &lt;b&gt;</h2>
+            <p class="fs-15 col-12">La balise &lt;b&gt; est une balise fermante, ce qu'elle encadre sera retranscrit en gras.</p>
+            <h5 class="fs-20 col-12">Voici un exemple d'utilisation de la balise &lt;b&gt; :</h5>
+            <div class="col-12">
+                <img src="../images/baliseb.png" alt="Exemple balise bold">
+            </div>
+            <h5 class="fs-20 col-12 mt-20">Voici un exemple de ce que l'utilisateur apercevera :</h5>
+            <p class="fs-15 col-12">This is a normal text - <b>and this is a bold text </b>.</p>
 
-    <aside>
-        <i>Sources : </i><a href="https://www.w3schools.com/tags/tag_b.asp">W3C</a>
-    </aside>
-
+            <aside class="fs-20 mt-20 col-12">
+                <i>Sources : </i><a href="https://www.w3schools.com/tags/tag_b.asp">W3C</a>
+            </aside>
+        </div>
+    </div>
 </section>
 
     <?php include "../include/footer.php" ?>
